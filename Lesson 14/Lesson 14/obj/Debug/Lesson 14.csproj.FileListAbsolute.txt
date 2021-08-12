@@ -1,0 +1,7 @@
+D:\visual Project\КУРСЫ GEKK BRAINS\Lesson 14\Lesson 14\bin\Debug\Lesson 14.exe.config
+D:\visual Project\КУРСЫ GEKK BRAINS\Lesson 14\Lesson 14\bin\Debug\Lesson 14.exe
+D:\visual Project\КУРСЫ GEKK BRAINS\Lesson 14\Lesson 14\bin\Debug\Lesson 14.pdb
+D:\visual Project\КУРСЫ GEKK BRAINS\Lesson 14\Lesson 14\obj\Debug\Lesson 14.csproj.AssemblyReference.cache
+D:\visual Project\КУРСЫ GEKK BRAINS\Lesson 14\Lesson 14\obj\Debug\Lesson 14.csproj.CoreCompileInputs.cache
+D:\visual Project\КУРСЫ GEKK BRAINS\Lesson 14\Lesson 14\obj\Debug\Lesson 14.exe
+D:\visual Project\КУРСЫ GEKK BRAINS\Lesson 14\Lesson 14\obj\Debug\Lesson 14.pdb
